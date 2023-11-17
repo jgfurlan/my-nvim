@@ -1,0 +1,2 @@
+require("jgfurlan")
+print("Hello! ^^")
