@@ -33,15 +33,15 @@ Welcome to my Neovim configurations! This repository contains my personal Neovim
 
 I use a variety of plugins to enhance the functionality of Neovim. Some of the key plugins include:
 
-- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter): Short description
-- [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim): Short description
-- [Packer](https://github.com/wbthomason/packer.nvim): Short description
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim): Short description
-- [Rose-Pine Color](https://github.com/rose-pine/neovim): Short description
-- [VimBeGood](https://github.com/ThePrimeagen/vim-be-good): Short description
-- [Harpoon](https://github.com/ThePrimeagen/harpoon): Short description
-- [Undo Tree](https://github.com/mbbill/undotree): Short description
-- [Fugitive](https://github.com/tpope/vim-fugitive): Short description
+- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim) 
+- [Packer](https://github.com/wbthomason/packer.nvim)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [Rose-Pine Color](https://github.com/rose-pine/neovim)
+- [VimBeGood](https://github.com/ThePrimeagen/vim-be-good)
+- [Harpoon](https://github.com/ThePrimeagen/harpoon)
+- [Undo Tree](https://github.com/mbbill/undotree)
+- [Fugitive](https://github.com/tpope/vim-fugitive)
 
 - ...
 
