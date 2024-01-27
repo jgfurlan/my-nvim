@@ -1,2 +1,3 @@
 require("jgfurlan")
-print("Hello! ^^")
+require("jgfurlan.set")
+require("mason").setup()
