@@ -6,12 +6,11 @@ local lspconfig = require('lspconfig')
 lspconfig.pyright.setup {}
 lspconfig.clangd.setup {}
 lspconfig.tsserver.setup {}
-lspconfig.rust_analyzer.setup {
-  -- Server-specific settings. See `:help lspconfig-setup`
-  settings = {
-    ['rust-analyzer'] = {},
-  },
+lspconfig.jdtls.setup {
+    root_dir = lspconfig.util.root_pattern('.git', 'mvnw', 'gradlew', 'pom.xml', 'build.gradle'), -- Maven/Gradle root pattern
 }
+lspconfig.gopls.setup {}
+lspconfig.lua_ls.setup {}
 
 local cmp = require('cmp')
 local cmp_select = {behavior = cmp.SelectBehavior.Select}
